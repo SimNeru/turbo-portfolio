@@ -1,0 +1,19 @@
+.container{
+    display: block;
+    margin: 0;
+    width: 100%;
+    height: auto;
+}
+
+.card{
+    display:block;
+    border: 2px solid black;
+    float: left;
+    width: 14%;
+    height: auto;
+    margin: 2%;
+}
+
+.dimImg{
+    width: 100%;
+}
